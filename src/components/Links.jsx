@@ -6,7 +6,7 @@ function Links(){
     const linkedin = '/assets/linkedin.png';
     const youtube = '/assets/youtube.png';
     const twitter = '/assets/twitter.png';
-    const telegram = '/assets/telegram.png';
+    const reddit = '/assets/reddit.png';
     const instagram = '/assets/instagram.png';
 
     return(
@@ -36,9 +36,9 @@ function Links(){
                 </a>
                 </div>
                 <div className="link">
-                <a href="https://t.me/Priyaanxhu" target="blank">
-                    <img className="linkimage" src={telegram} alt="" />
-                    <p className="socialname">Telegram</p>
+                <a href="https://www.reddit.com/user/Priyannxhuu" target="blank">
+                    <img className="linkimage" src={reddit} alt="" />
+                    <p className="socialname">Reddit</p>
                 </a>
                 </div>
                 <div className="link">
